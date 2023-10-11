@@ -1,19 +1,25 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f2f2f2;
+    background-color: #edc707;
     margin: 0;
     padding: 20px;
 }
 
 /* 4. Style the product gallery using flexbox. */
 .product-gallery {
-
+display: flex;
+  justify-content:flex-end;
 }
 
 /* 5. Style the div with the class "product-card" using the box model. */
 /* 6. Add a solid border with any color you like. */
 /* 7. Add background color of white. */
-____ {
+.product-gallery  {background-color: #5eb20a;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 1300px;
+    text-align: center;
 
 }
 
